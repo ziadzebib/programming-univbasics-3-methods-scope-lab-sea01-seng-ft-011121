@@ -5,7 +5,11 @@ def mario
 end
 
 def toadstool
+<<<<<<< HEAD
   status = "Thank You Mario! But Our Princess Is In Another Castle!"
+=======
+  satus = 
+>>>>>>> 19e161f549278cdc2025f1955dbfcbf00d55c2c0
   puts status
 end
 
